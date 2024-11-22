@@ -1,3 +1,5 @@
+Este es el proyecto que estoy realizando para el curso de TalentoTech.
+
 La idea de la pagina es la de vender drones.
 
 Principalmente, la idea fue de mi Padre porque es fan de los drones.
